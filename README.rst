@@ -8,5 +8,5 @@ Introduction
 =======================
 For controlling 
 
-.. image:: https://github.com/bwang40/32by16-RGB-Panel-Control-with-ZYNQ/blob/master/images/blockdiagram.PNG
+.. image:: https://github.com/bwang40/Agilent33220A_MatlabVisa/blob/master/image/scrshot.PNG
    :scale: 25
